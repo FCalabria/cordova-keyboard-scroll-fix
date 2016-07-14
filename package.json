@@ -1,0 +1,29 @@
+{
+  "name": "cordova-keyboard-scroll-fix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FCalabria/cordova-keyboard-scroll-fix.git"
+  },
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "ionic",
+    "fix",
+    "typescript"
+  ],
+  "author": "Paqui Calabria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FCalabria/cordova-keyboard-scroll-fix/issues"
+  },
+  "homepage": "https://github.com/FCalabria/cordova-keyboard-scroll-fix#readme",
+  "dependencies": {
+    "typings": "^1.3.1"
+  }
+}
